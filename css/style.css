@@ -122,3 +122,19 @@ h1 {
   font-size: 17px;
   color: #B6B6B6;
 }
+
+.tweets button {
+  all: unset;
+  display: flex;
+
+  cursor: pointer;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 20px;
+
+  color: #FFFFFF;
+}
