@@ -1,6 +1,7 @@
 # :bird: Tweteroo Frontend
 
-Projeto criado para simular a criação de posts em uma rede social, esse frontend interage com um backend que registra os dados e mostra para o cliente.
+Projeto criado para simular a criação de posts em uma rede social, esse frontend interage com um backend que registra os dados e mostra para o cliente.<br />
+**Nota:** esse projeto é uma Prática de POO.
 
 <div align=center>
  
@@ -36,6 +37,11 @@ Projeto criado para simular a criação de posts em uma rede social, esse fronte
 >```
 
 5. Abra o projeto no navegador através do endereço fornecido no terminal (possivelmente: http://localhost:1234) e aproveite <3
+
+<br/>
+
+# Créditos
+- Código base do projeto [tweteroo-front](https://github.com/T07-Driven/tweteroo-front) de [codethi](https://github.com/codethi)
 
 <br />
 <br />
