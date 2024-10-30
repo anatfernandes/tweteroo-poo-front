@@ -1,6 +1,9 @@
 # :bird: Tweteroo Frontend
 
-Projeto criado para simular a criação de posts em uma rede social, esse frontend interage com um backend que registra os dados e mostra para o cliente.<br />
+![Badge Finalizado](https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=success&style=for-the-badge)
+
+Projeto criado para simular a criação de posts em uma rede social, esse frontend interage com um backend que registra os dados e mostra para o cliente.
+
 **Nota:** esse projeto é uma Prática de POO.
 
 <div align=center>
@@ -21,7 +24,7 @@ Projeto criado para simular a criação de posts em uma rede social, esse fronte
 ## :hammer_and_wrench: Abrir e rodar o projeto
 1. Clone esse repositório:
 >```bash
-> git clone https://github.com/AnaLTFernandes/tweteroo-poo-front.git
+> git clone https://github.com/anatfernandes/tweteroo-poo-front.git
 >```
 
 2. Instale as dependências:
@@ -29,14 +32,14 @@ Projeto criado para simular a criação de posts em uma rede social, esse fronte
 > npm install
 >```
 
-3. Instale e configure o [Backend](https://github.com/AnaLTFernandes/tweteroo-poo-back)
+3. Instale e configure o [Backend](https://github.com/anatfernandes/tweteroo-poo-back)
 
 4. Inicie o projeto:
 >```bash
 > npm start
 >```
 
-5. Abra o projeto no navegador através do endereço fornecido no terminal (possivelmente: http://localhost:1234) e aproveite <3
+5. Acesse http://localhost:1234 no seu navegador e aproveite <3
 
 <br/>
 
